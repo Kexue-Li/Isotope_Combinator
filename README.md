@@ -1,5 +1,5 @@
 # Isotope_Combinator
- Calculate all posible combinations of an ion from the isotope talbe
+ Calculate all posible combinations of an ion from the isotope table.
 
 ## Preparation isotope table
 To reduce the calculation time, usually only select the most important isotopes in the sample or the most posibility contamination isotopes.
